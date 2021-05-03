@@ -21,5 +21,8 @@
     <ClCompile Include="다익스트라 알고리즘.cpp">
       <Filter>소스 파일\동빈나</Filter>
     </ClCompile>
+    <ClCompile Include="다익스트라 알고리즘(우선순위큐로 개선).cpp">
+      <Filter>소스 파일\동빈나</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
