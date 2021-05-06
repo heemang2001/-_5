@@ -27,5 +27,8 @@
     <ClCompile Include="플로이드 워셜 알고리즘.cpp">
       <Filter>소스 파일\동빈나</Filter>
     </ClCompile>
+    <ClCompile Include="전보.cpp">
+      <Filter>소스 파일\동빈나</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
